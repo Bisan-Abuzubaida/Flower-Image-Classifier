@@ -25,7 +25,6 @@ The workflow includes both **training** and **inference**, with modular Python s
 ├── train.py # Script to train the model
 ├── predict.py # Script to predict a flower image
 ├── Image Classifier Project.ipynb # Notebook with full workflow
-├── Image Classifier Project.html # Exported notebook for quick view
 ├── README.md # Project documentation
 ├── LICENSE # License file
 └── CODEOWNERS # Optional project metadata
@@ -86,7 +85,7 @@ The workflow includes both **training** and **inference**, with modular Python s
 Clone the repo:
 
 ```bash
-git clone https://github.com/Bisan-Abuzubaida/flower-image-classifier.git
+git clone https://github.com/Bisan-Abuzubaida/Flower-Image-Classifier.git
 cd flower-image-classifier
 ```
 Train the model:
@@ -105,8 +104,9 @@ jupyter notebook "Image Classifier Project.ipynb"
 ```
 ## 📄 License
 
-This project is licensed under the [Udacity License](https://github.com/Bisan-Abuzubaida/flower-image-classifier/blob/main/LICENSE)
-.
+This project is licensed under the [Udacity License](https://github.com/Bisan-Abuzubaida/Flower-Image-Classifier/blob/main/LICENSE)
+
+---
 
 ## 👩‍💻 Author
 
@@ -117,5 +117,3 @@ AI Programming with Python Nanodegree – Udacity
 Passionate about Deep Learning, Python, and AI projects
 
 Portfolio: [GitHub](https://github.com/Bisan-Abuzubaida)
-
-
