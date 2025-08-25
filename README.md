@@ -61,6 +61,21 @@ The workflow includes both **training** and **inference**, with modular Python s
    - Visualizations of training metrics and predictions.
 
 ---
+🚀 Achievements
+
+ - Built an image classifier for 102 flower species using PyTorch and transfer learning with VGG19.
+
+ - Implemented data preprocessing & augmentation (random rotation, cropping, normalization) to improve robustness.
+
+ - Designed and trained a custom feed-forward classifier with dropout and ReLU activations.
+
+ - Optimized training using Adam optimizer and early validation checks.
+
+ - Achieved ~72% accuracy on test data for unseen flower images.
+
+ - Created a command-line interface (train.py and predict.py) to train new models and make predictions on any image input.
+   
+---
 
 ## 📸 Demo
 
@@ -117,3 +132,4 @@ AI Programming with Python Nanodegree – Udacity
 Passionate about Deep Learning, Python, and AI projects
 
 Portfolio: [GitHub](https://github.com/Bisan-Abuzubaida)
+
